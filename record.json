@@ -6,7 +6,7 @@
     "device_src":"2b9af4f2-191c-4b53-9641-863ef8ff11cd",
     "device_dst":"0aa88e54-cab1-47c6-85a8-68482b989ed6",
     "amount":536,
-    "trade_time":"2019/06/26 07:08:29"
+    "trade_time":"2019-06-26 07:08:29"
 },{
     "record_id":"a29c62bd-601b-4347-84b6-d4b7e9fac480",
     "transaction_id":"ca79d247-f673-45db-8054-2245fe4af32e",
@@ -15,7 +15,7 @@
     "device_src":"2b9af4f2-191c-4b53-9641-863ef8ff11cd",
     "device_dst":"0aa88e54-cab1-47c6-85a8-68482b989ed6",
     "amount":374,
-    "trade_time":"2019/06/27 08:06:28"
+    "trade_time":"2019-06-27 08:06:28"
 },{
     "record_id":"b95cd2fb-da6b-4c3a-8d8d-3286e38c7fde",
     "transaction_id":"9dce4547-5018-4771-9d05-60dda7176f38",
@@ -24,7 +24,7 @@
     "device_src":"2b9af4f2-191c-4b53-9641-863ef8ff11cd",
     "device_dst":"0aa88e54-cab1-47c6-85a8-68482b989ed6",
     "amount":298,
-    "trade_time":"2019/06/26 11:09:26"
+    "trade_time":"2019-06-26 11:09:26"
 },{
     "record_id":"b95cd2fb-da6b-4c3a-8d8d-3286e38c7fde",
     "transaction_id":"9dce4547-5018-4771-9d05-60dda7176f38",
@@ -33,5 +33,5 @@
     "device_src":"2b9af4f2-191c-4b53-9641-863ef8ff11cd",
     "device_dst":"0aa88e54-cab1-47c6-85a8-68482b989ed6",
     "amount":1123,
-    "trade_time":"2019/06/27 01:31:02"
+    "trade_time":"2019-06-27 01:31:02"
 }]
